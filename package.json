@@ -1,0 +1,12 @@
+{
+    "name": "reactandflux",
+    "version": "1.0.0",
+    "description": "",
+    "main": "",
+    "scripts": { },
+    "keywords": [],
+    "author": "Josue Garcia",
+    "license": "ISC",
+    "dependencies": {},
+    "devDependencies": {}
+}
