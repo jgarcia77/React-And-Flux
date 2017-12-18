@@ -36,7 +36,6 @@ var AuthorApi = {
     },
 
     deleteAuthor: function(id) {
-        console.log('Pretend this just deleted the author from the DB via an AJAX call...');
         _.remove(authors, { id: id });
     }
 };
